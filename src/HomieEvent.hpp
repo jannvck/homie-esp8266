@@ -5,7 +5,7 @@
 #elif defined(ESP8266)
 #include <ESP8266WiFi.h>
 #endif // ESP32
-#include <AsyncMqttClient.h>
+#include "AsyncMqttClient_Generic.hpp"
 
 enum class HomieEventType : uint8_t {
   STANDALONE_MODE = 1,
