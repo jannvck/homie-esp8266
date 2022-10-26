@@ -25,7 +25,7 @@
 #endif // ESP32
 
 
-#include <AsyncMqttClient.h>
+#include <AsyncMqttClient_Generic.hpp>
 #include "../../HomieNode.hpp"
 #include "../../HomieRange.hpp"
 #include "../../StreamingOperator.hpp"
