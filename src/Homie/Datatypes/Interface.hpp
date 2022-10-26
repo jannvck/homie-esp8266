@@ -1,6 +1,6 @@
 #pragma once
 
-#include <AsyncMqttClient.h>
+#include "AsyncMqttClient_Generic.hpp"
 #include "../Logger.hpp"
 #include "../Blinker.hpp"
 #include "../Constants.hpp"
