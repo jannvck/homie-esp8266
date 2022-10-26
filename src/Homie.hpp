@@ -2,7 +2,7 @@
 
 #include "Arduino.h"
 
-#include "AsyncMqttClient.h"
+#include "AsyncMqttClient_Generic.hpp"
 #include "Homie/Datatypes/Interface.hpp"
 #include "Homie/Constants.hpp"
 #include "Homie/Limits.hpp"
